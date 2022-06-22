@@ -1,0 +1,13 @@
+import 'main.dart';
+var membre_1 = Membre(1,"67","Durant","Alex","images/chien.jpeg","dalex","mdp123*");
+var membre_2 = Membre(2,"67","Dupont","Lisa","images/chat.jpeg","dlisa","mdp123*");
+var membre_3 = Membre(3,"67","Dujour","Nico","images/renard.jpeg","dnico","mdp123*");
+var membre_4 = Membre(4,"95","Ducoup","Thomas","images/ours.jpeg","dthomas","mdp123*");
+var membre_5 = Membre(5,"95","Blanc","Kévin","images/lion.jpeg","bkevin","mdp123*");
+var membre_6 = Membre(6,"67","Kister","Hari","images/vache.jpeg","khari","mdp123*");
+var membre_7 = Membre(7,"67","Meyer","Célia","images/lemurien.jpeg","mcelia","mdp123*");
+var membre_8 = Membre(8,"95","Muller","Laeti","images/elephant.jpeg","mlaeti","mdp123*");
+var membre_9 = Membre(9,"95","Zimmerman","Laura","images/cochon.jpeg","zlaura","mdp123*");
+var membre_10 = Membre(10,"67","Mota","Léa","images/girafe.jpeg","mlea","mdp123*");
+var membre_11 = Membre(11,"95","Laurent","Philippe","images/lapin.jpeg","lphilippe","mdp123*");
+var membre_12 = Membre(12,"95","Dubon","Nick","images/hibou.jpeg","dnick","mdp123*");
